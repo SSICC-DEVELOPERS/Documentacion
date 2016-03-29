@@ -1,0 +1,336 @@
+L3_DEV_SICCPEE_USER_BEL =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(Host = pelnx3496)(Port = 1545))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = siccpeed)
+    )
+  )
+  
+L3_QAS_SICCPEE_USER_BEL =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(Host = pelnx2444)(Port = 1544))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = siccpee)
+    )
+  )
+
+L3_QAS_SICCPEESOA =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(Host = pelnx2444)(Port = 1546))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = siccpeesoa)
+    )
+  )
+
+L3_PDP_SICCCLE_USER_BEL =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(Host = pelnx2438)(Port = 2563))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = sicccle)
+    )
+  )
+
+L3_PDP_SICCCOE_USER_BEL =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(Host = pelnx2433)(Port = 2558))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = sicccoe)
+    )
+  )
+
+L3_PDP_SICCCRL_USER_BEL =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(Host = pelnx2437)(Port = 2751))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = sicccrl)
+    )
+  )
+ 
+L3_PDP_SICCDOL_USER_BEL =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(Host = pelnx2442)(Port = 2590))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = siccdol)
+    )
+  )
+
+L3_PDP_SICCECL_USER_BEL =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(Host = pelnx2434)(Port = 2562))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = siccecl)
+    )
+  )
+
+L3_PDP_SICCGTE_USER_BEL =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(Host = pelnx2436)(Port = 2753))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = siccgte)
+    )
+  )
+ 
+
+L3_PDP_SICCPAL_USER_BEL =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(Host = pelnx2432)(Port = 2750))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = siccpal)
+    )
+  )			
+
+L3_PDP_SICCPEE_USER_BEL =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(Host = pelnx2440)(Port = 2553))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = siccpee)
+    )
+  )
+
+L3_PDP_SICCPRL_USER_BEL =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(Host = pelnx2449)(Port = 2591))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = siccprl)
+    )
+  )
+
+L3_PDP_SICCSVE_USER_BEL =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(Host = pelnx2435)(Port = 2757))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = siccsve)
+    )
+  )
+
+L3_PDP_SICCVEL_USER_BEL =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(Host = pelnx2439)(Port = 2552))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = siccvel)
+    )
+  )
+  
+L3_PRD_SICCBOE_USER_BEL  =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(Host = pelnx1434)(Port = 1587))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = siccboe)
+    )
+  )				
+
+L3_PRD_SICCCLE_USER_BEL =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(Host = pelnx1420)(Port = 1563))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = sicccle)
+    )
+  )
+
+L3_PRD_SICCCOE_USER_BEL =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(Host = pelnx1410)(Port = 1558))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = sicccoe)
+    )
+  )
+
+L3_PRD_SICCCRL_USER_BEL =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(Host = pelnx1418)(Port = 1751))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = sicccrl)
+    )
+  )
+
+L3_PRD_SICCDOL_USER_BEL =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(Host = pelnx1428)(Port = 1590))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = siccdol)
+    )
+  )
+
+L3_PRD_SICCECE_USER_BEL =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(Host = pelnx1445)(Port = 1561))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = siccece)
+    )
+  )
+  
+L3_PRD_SICCECL_USER_BEL =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(Host = pelnx1412)(Port = 1562))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = siccecl)
+    )
+  )
+  
+L3_PRD_SICCGTE_USER_BEL =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(Host = pelnx1416)(Port = 1753))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = siccgte)
+    )
+  )
+
+L3_PRD_SICCMXL_USER_BEL =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(Host = pelnx1436)(Port = 1755))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = siccmxl)
+    )
+  )			
+  
+L3_PRD_SICCPAL_USER_BEL =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(Host = pelnx1408)(Port = 1750))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = siccpal)
+    )
+  )
+
+L3_PRD_SICCPEE_USER_BEL =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(Host = pelnx1424)(Port = 1553))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = siccpee)
+    )
+  )
+
+L3_PRD_SICCPRL_USER_BEL =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(Host = pelnx1426)(Port = 1591))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = siccprl)
+    )
+  )
+
+L3_PRD_SICCSVE_USER_BEL =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(Host = pelnx1414)(Port = 1757))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = siccsve)
+    )
+  )
+  
+L3_PRD_SICCVEL_USER_BEL =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(Host = pelnx1422)(Port = 1552))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = siccvel)
+    )
+  )
+
+L3_PRD_SICCVEE_USER_BEL =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(Host = pelnx1447)(Port = 1560))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = siccvee)
+    )
+  )
+
+MAT_SICCBOE_L3 =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(Host = pelnx3504)(Port = 1587))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = siccboe)
+    )
+  )				
+  
+MAT_SICCMXL =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(Host = pelnx3505)(Port = 1755))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = siccmxl)
+    )
+  )				
+
+MGR_SICCBOE_APP_GMD =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(Host = pelnx3501)(Port = 1587))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = siccboe)
+    )
+  )	
+  
+MGR_SICCMXL_APP_L3 =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(Host = pelnx3503)(Port = 1755))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = siccmxl)
+    )
+  )				
+  
+APE_PRD =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(Host = colnx05)(Port = 1521))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = SAT)
+    )
+  )			
+  
+APE_QAS =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(Host = COLNX07)(Port = 1521))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = ORCL)
+    )
+  )			
+
+PDP2_SICCCLE_USER_BEL =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(Host = pelnx2451)(Port = 2563))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = sicccle)
+    )
+  )
+  
+  
+PDP_SICCMXL =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(Host = pelnx2452)(Port = 2755))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = siccmxl)
+    )
+  )				
+  
+  
